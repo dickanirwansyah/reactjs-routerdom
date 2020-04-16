@@ -1,0 +1,58 @@
+{
+    "writers" : [
+        {
+            "id": "a001",
+            "name" : "steve jobs",
+            "born": "1997-09-09",
+            "deceased" : "2020-01-01",
+            "description" : "steve jobs adalah ceo dan pendiri aple",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Steve_Jobs_with_red_shawl_edit.jpg/421px-Steve_Jobs_with_red_shawl_edit.jpg"
+        },
+        {
+            "id" : "a002",
+            "name" : "bill gates",
+            "born" : "1995-09-09",
+            "deceased": "2001-01-01",
+            "description": "bill gates adalah ceo dan pendiri microsoft",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Bill_Gates_in_WEF%2C_2007.jpg"
+        },
+        {
+            "id": "a003",
+            "name": "linus torsvald",
+            "born": "1996-09-02",
+            "deceased" : "2020-01-01",
+            "description": "linus torsvald adalah ceo dan pendiri dari linux dia adalah software engineer c++",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinuxCon_Europe_Linus_Torvalds_03_%28cropped%29.jpg/431px-LinuxCon_Europe_Linus_Torvalds_03_%28cropped%29.jpg"
+        }
+    ],
+    "texts" : [
+        {
+            "id" : "a01",
+            "writerId" : "a001",
+            "title" : "Iphone 4s",
+            "description" : "",
+            "published" : 2005
+        },
+        {
+            "id" : "a02",
+            "writerId" : "a001",
+            "title" : "Iphone 5s",
+            "description" : "iphone 5s adalah product pertama apple semenjak saat itu apple sangat terkenal akan kecanggihannya oleh karena itu blabalabala",
+            "published" : 2010
+        },
+        {
+            "id" : "a03",
+            "writerId" : "a002",
+            "title" : "Micorsoft office",
+            "description" : "microsoft office adalah product pertama microsof semenjak saat itu microsoft sangat terkenal akan kecanggihannya oleh karena itu blabalabala",
+            "published" : 2005
+        },
+        {
+            "id" : "a04",
+            "writerId" : "a003",
+            "title" : "Ubuntu 14.04 LTS",
+            "description" : "Ubuntu 14.04 LTS adalah product pertama linux semenjak saat itu linux sangat terkenal akan kecanggihannya oleh karena itu blabalabala",
+            "published" : 2005
+        }
+    ]
+}
